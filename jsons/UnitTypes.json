@@ -95,3 +95,18 @@
             "Can pass through impassable tiles"
         ]
     },
+    {
+        "name": "Recon Drone",
+        "movementType": "Land",
+        "uniques": ["Civilian"]
+    },
+    {
+        "name": "Explosive Drone",
+        "movementType": "Land",
+        "uniques": ["Civilian", "Self-destructs when attacking"]
+    },
+    {
+        "name": "Light Armored Vehicle",
+        "movementType": "Land"
+        
+  
