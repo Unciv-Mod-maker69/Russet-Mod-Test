@@ -27,7 +27,7 @@
 	},
 	{
 		"name": "Lazar 3",
-		"unitType": "Armored",
+		"unitType": "Light Armored Vehicle",
 		"uniqueTo": "Serbia",
 		"replaces": "Armoured Personnel Carier",
 		"movement":6,
@@ -39,7 +39,7 @@
 	},
 	{
 		"name": "Armoured Personnel Carier",
-		"unitType": "Armored",
+		"unitType": "Light Armored Vehicle",
 		"Movement":5,
 		"Strenght":93,
 		"Cost":400,
