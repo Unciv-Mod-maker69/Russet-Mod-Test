@@ -279,11 +279,9 @@
             "[+1 Faith] from every [Olives]",
             "[+1 Faith] from every [Cocoa]",
             "[+1 Faith] from every [Rubber]",
-            "[+1 Faith] from every [Coconut]"
+            "[+1 Faith] from every [Coconut]
         ]
     },
-
-    ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
     {
         "name": "Ceremonial Burial",
         "type": "Founder",
@@ -353,8 +351,6 @@
         "type": "Founder",
         "uniques": ["[+8 Gold] [in capital]"]
     },
-
-    ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
         "name": "Cathedrals",
         "type": "Follower",
