@@ -575,8 +575,6 @@
         "type": "Enhancer",
         "uniques": ["[+6 Happiness] [in capital]"]
     },
-    //Pilgrimage: Gain +4 Faith and +3 Culture for every foreign City that follows this Religion
-    //Promised Land: Religion spreads twice as fast to friendly Cities and Cities that already follow this Religion
     {
         "name": "Religious Troubadours",
         "type": "Enhancer",
@@ -611,7 +609,6 @@
         "name": "Swords into Ploughshares",
         "type": "Enhancer",
         "uniques": [
-            //Should be for all cities following the religion, but I can't do so as an enhancer
             "[+20]% growth [in cities following this religion]",
             "Only available <after adopting [Reformation]>"
         ]
