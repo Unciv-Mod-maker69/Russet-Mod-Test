@@ -112,7 +112,7 @@
     {
         "name": "Heavy Armored Vehicle",
         "movementType": "Land"
-         "name": "Melee",
+        "name": "Melee",
         "movementType": "Land"
     },
     {
@@ -120,7 +120,7 @@
         "movementType": "Land"
     },
     {
-        "name": "Armor",
+        "name": "Armored",
         "movementType": "Land"
     },
     {
