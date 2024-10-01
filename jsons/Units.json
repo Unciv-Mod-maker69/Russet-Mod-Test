@@ -1,7 +1,7 @@
 [
 	{
 		"name": "M84-AS1",
-		"unitType": "Armored",
+		"unitType": "Heavy Armored Vehicle",
 		"uniqueTo": "Serbia",
 		"replaces": "Modern Armor",
 		"movement": 6,
